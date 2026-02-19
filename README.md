@@ -1,4 +1,4 @@
 # hello-travellers
 world details
-<BR>
+<br>
 Author-Sachin aggarwal
